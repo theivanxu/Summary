@@ -4,3 +4,4 @@ collections
  feature-A
  fix-B
  feature-CR
+ feature-D
